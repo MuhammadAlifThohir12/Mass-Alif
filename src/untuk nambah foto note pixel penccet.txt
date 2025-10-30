@@ -1,0 +1,24 @@
+Jadi kesimpulan akhir:
+📏 1600 × 900 px — PNG — 72 DPI — RGB Color
+
+🎯 Ukuran Ideal Gambar Project (format PNG)
+
+Ukuran: ✅ 1600 × 900 pixel
+
+Rasio: 16:9
+
+Resolusi: 72 DPI
+
+Color Mode: RGB Color (8 bit)
+
+Background: transparan ❌ tidak wajib, tapi boleh kalau memang butuh (misal overlay desain UI)
+
+Format Simpan: .png (lebih tajam, tapi ukurannya sedikit lebih besar dibanding .jpg/.webp)
+
+🧠 Tips tambahan:
+
+Kalau gambarnya foto penuh (bukan desain UI), sebaiknya convert ke .webp biar ukuran file lebih ringan dan tetap jernih.
+
+Kalau gambarnya mockup, UI, atau elemen dengan transparansi, tetap pakai .png — hasilnya lebih bersih.
+
+Pastikan sebelum export, fit canvas to 1600×900 px supaya tidak terpotong di object-cover.
