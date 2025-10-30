@@ -39,7 +39,7 @@ export default function PortfolioShowcase() {
     {
       title: "Visual Branding & Food Design",
       technologies: ["Photoshop", "Illustrator"],
-      image: "/src/public/1.png",
+      image: "https://d1bpj0tv6vfxyp.cloudfront.net/articles/253564_20-5-2021_13-2-0.webp",
       demo: "https://www.behance.net/gallery/236315773/Visual-Branding-Food-Design",
     },
     {
