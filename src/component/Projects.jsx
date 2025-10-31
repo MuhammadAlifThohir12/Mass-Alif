@@ -63,61 +63,61 @@ export default function PortfolioShowcase() {
     {
       title: "Creative Vape Branding Collection",
       technologies: ["Photoshop", "Canva"],
-      image: "/public/3.png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2e2f85236525583.68edf2d22fbe0.png",
       demo: "https://www.behance.net/gallery/236597999/Creative-Vape-Branding-Collection",
     },
     {
       title: "Creative Vape Branding — OXVA Series",
       technologies: ["Illustrator", "Photoshop"],
-      image: "/public/vape (5).png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4f67ca236601735.68ef4509ac531.png",
       demo: "https://www.behance.net/gallery/236601735/Creative-Vape-Branding-OXVA-Series",
     },
     {
       title: "Modern Poster Design Collection",
       technologies: ["Photoshop", "Illustrator"],
-      image: "/public/poster behance.png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e92fb0236605997.68ef56aeecf82.png",
       demo: "https://www.behance.net/gallery/236605997/Modern-Poster-Design-Collection",
     },
     {
       title: "Social Media Visual Branding & Menu Design",
       technologies: ["Photoshop", "Canva","Ilustrator"],
-      image: "/public/design feeds.png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/113f4b237018025.68f82ce686f6f.png",
       demo: "https://www.behance.net/gallery/237018025/Social-Media-Visual-Branding-Menu-Design",
     },
     {
       title: "Bequ Liquid Design",
       technologies: ["Photoshop","Ilustrator"],
-      image: "/public/project akhir (1).png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b90885237557549.69042089a6cb8.png",
       demo: "https://www.behance.net/gallery/237557549/liquid-bequ-design",
     },
     {
       title: "Foom Liquid Design",
       technologies: ["Photoshop", "Canva","Ilustrator"],
-      image: "/public/project akhir (2).png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/81fd54237557743.690420bba851f.png",
       demo: "https://www.behance.net/gallery/237557743/foom-liquid-design",
     },
     {
       title: "Liquid Design Vape",
       technologies: ["Photoshop","Ilustrator"],
-      image: "/public/project akhir (3).png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/97027c237557197.6904204544bfd.png",
       demo: "https://www.behance.net/gallery/237557197/Liquid-Design-Vape-Flavor-in-Motion",
     },
     {
       title: "Logo Design",
       technologies: ["Ilustrator"],
-      image: "/public/logo design .png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ad4300237565393.690316356b9bf.png",
       demo: "https://www.behance.net/gallery/237565393/Logo-Design",
     },
     {
       title: "Thumbnail Youtube Design",
       technologies: ["Canva"],
-      image: "/public/thumnbail .png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f1f157237566625.690420e874eaf.png",
       demo: "https://www.behance.net/gallery/237566625/Thumbnail-Youtube-Design",
     },
     {
       title: "Menu A3 BABAH A HUI Restaurant",
       technologies: ["Canva"],
-      image: "/public/menu a3 babah .png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4b72af237567757.690320dd4e09d.png",
       demo: "https://www.behance.net/gallery/237567757/menu-a3-babah-ahui-restaurant",
     },
   ];
@@ -127,17 +127,17 @@ export default function PortfolioShowcase() {
     {
       title: "Graduation & Appreciation Certificate CoFriends",
       technologies: ["Colearn"],
-      image: "/public/serti 1.jfif",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f201c8237624719.6904271f03e83.jpg",
     },
     {
       title: "Most Active CoFriends Nominee Certificate",
       technologies: ["Colearn Awards"],
-      image: "/public/serti 2.jfif",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/494441237624719.6904271f04bb7.jpg",
     },
     {
       title: "3rd Place in Short Movie Category (CORISINDO Competition)",
       technologies: ["CORISINDO"],
-      image: "/public/serti 3.jpg",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a73ccc237624719.6904271f043fd.jpg",
     },
   ];
 
