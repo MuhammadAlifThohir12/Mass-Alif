@@ -43,21 +43,21 @@ export default function PortfolioShowcase() {
       demo: "https://www.behance.net/gallery/236315773/Visual-Branding-Food-Design",
     },
     {
-      title: "Instagram Stories Promotion",
+      title: "Vape Branding Design",
       technologies: ["Photoshop", "Branding"],
-      image: "/public/2.png",
-      demo: "https://www.behance.net/gallery/236525583/Instagram-Stories-Promotion-Food-Drink-Design",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2c784d236597999.68ef3327be421.png",
+      demo: "https://www.behance.net/gallery/236597999/Creative-Vape-Branding-Collection",
     },
     {
       title: "Dessert & Beverage Story Design",
       technologies: ["Photoshop", "Canva"],
-      image: "/public/4.png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/537ab5236525583.68edf2d230d0f.png",
       demo: "https://www.behance.net/gallery/236525583/Instagram-Stories-Promotion-Food-Drink-Design",
     },
     {
-      title: "Company Profile Video — UFP UTB",
+      title: "Foom Device Design",
       technologies: ["Premiere Pro"],
-      image: "/public/Copy of mock up design .png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/48e0d8236597999.68ef3327bfbaf.png",
       demo: "https://www.instagram.com/reel/DAUy1Ikv4AW/",
     },
     {
