@@ -25,7 +25,7 @@ const About = () => {
     { src: "https://cdn-icons-png.flaticon.com/512/5968/5968520.png", alt: "Photoshop" },
     { src: "https://cdn-icons-png.flaticon.com/512/5968/5968472.png", alt: "Illustrator" },
     { src: "https://cdn-icons-png.flaticon.com/512/5968/5968705.png", alt: "Figma" },
-    { src: "https://cdn-icons-png.flaticon.com/512/2111/2111432.png", alt: "Github" },
+    { src: "https://cdn-icons-png.flaticon.com/512/270/270798.png", alt: "Github" },
     { src: "https://cdn-icons-png.flaticon.com/512/3536/3536806.png", alt: "Behance" },
     { src: "https://cdn-icons-png.flaticon.com/512/732/732221.png", alt: "Microsoft" },
     { src: "https://cdn-icons-png.flaticon.com/512/16020/16020753.png", alt: "CSS" },
