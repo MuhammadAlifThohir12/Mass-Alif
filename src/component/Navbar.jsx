@@ -71,7 +71,7 @@ const Navbar = () => {
             </motion.button>
 
             <motion.a
-              href="/src/assets/file/Resume_Muhammad_Alif-Thohir_Graphic_Design.pdf"
+              href="/public/Resume_Muhammad_Alif-Thohir_Graphic_Design.pdf"
               download="RESUME-Muhammad_Alif_Thohir.pdf"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
@@ -109,7 +109,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="/src/assets/file/Resume_Muhammad_Alif-Thohir_Graphic_Design.pdf"
+              href="/public/Resume_Muhammad_Alif-Thohir_Graphic_Design.pdf"
               download="RESUME-Muhammad_Alif_Thohir.pdf"
               className="mt-4 w-full btn-primary flex items-center justify-center"
             >
