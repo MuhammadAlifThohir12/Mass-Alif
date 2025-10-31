@@ -56,9 +56,9 @@ export default function PortfolioShowcase() {
     },
     {
       title: "Foom Device Design",
-      technologies: ["Premiere Pro"],
+      technologies: ["Illustrator", "Photoshop"],
       image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/48e0d8236597999.68ef3327bfbaf.png",
-      demo: "https://www.instagram.com/reel/DAUy1Ikv4AW/",
+      demo: "https://www.behance.net/gallery/236597999/Creative-Vape-Branding-Collection?",
     },
     {
       title: "Creative Vape Branding Collection",
