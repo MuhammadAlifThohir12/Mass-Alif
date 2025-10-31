@@ -20,16 +20,16 @@ const About = () => {
   ];
 
   const toolLogos = [
-    { src: "https://icons8.com/icon/108781/adobe-after-effects", alt: "After Effects" },
-    { src: "/public/icons8-adobe-premiere-pro.svg", alt: "Premiere Pro" },
-    { src: "/public/icons8-behance.svg", alt: "Behance" },
-    { src: "/public/icons8-canva.svg", alt: "Canva" },
-    { src: "/public/icons8-css.svg", alt: "CSS" },
-    { src: "/public/icons8-figma.svg", alt: "Figma" },
-    { src: "/public/icons8-html.svg", alt: "HTML" },
-    { src: "/public/icons8-illustrator.svg", alt: "Illustrator" },
-    { src: "/public/icons8-javascript.svg", alt: "JavaScript" },
-    { src: "/public/icons8-photoshop.svg", alt: "Photoshop" },
+    { src: "/show/452141/adobe-after-effects.svg", alt: "After Effects" },
+    { src: "/show/452150/adobe-premiere.svg", alt: "Premiere Pro" },
+    { src: "/show/416889/behance-internet-media.svg", alt: "Behance" },
+    { src: "/show/341669/canva.svg", alt: "Canva" },
+    { src: "/show/452185/css-3.svg", alt: "CSS" },
+    { src: "/show/452202/figma.svg", alt: "Figma" },
+    { src: "/show/373669/html.svg", alt: "HTML" },
+    { src: "/show/452147/adobe-illustrator.svg", alt: "Illustrator" },
+    { src: "/show/452045/js.svg", alt: "JavaScript" },
+    { src: "/show/452149/adobe-photoshop.svg", alt: "Photoshop" },
   ];
 
   return (
