@@ -20,16 +20,16 @@ const About = () => {
   ];
 
   const toolLogos = [
-    { src: "/show/452141/adobe-after-effects.svg", alt: "After Effects" },
-    { src: "/show/452150/adobe-premiere.svg", alt: "Premiere Pro" },
+    { src: "https://cdn-icons-png.flaticon.com/512/5968/5968428.png", alt: "After Effects" },
+    { src: "https://cdn-icons-png.flaticon.com/512/5968/5968525.png", alt: "Premiere Pro" },
     { src: "/show/416889/behance-internet-media.svg", alt: "Behance" },
     { src: "/show/341669/canva.svg", alt: "Canva" },
     { src: "/show/452185/css-3.svg", alt: "CSS" },
     { src: "/show/452202/figma.svg", alt: "Figma" },
     { src: "/show/373669/html.svg", alt: "HTML" },
-    { src: "/show/452147/adobe-illustrator.svg", alt: "Illustrator" },
+    { src: "https://cdn-icons-png.flaticon.com/512/5968/5968472.png", alt: "Illustrator" },
     { src: "/show/452045/js.svg", alt: "JavaScript" },
-    { src: "/show/452149/adobe-photoshop.svg", alt: "Photoshop" },
+    { src: "https://cdn-icons-png.flaticon.com/512/5968/5968520.png", alt: "Photoshop" },
   ];
 
   return (
