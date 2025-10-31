@@ -33,13 +33,13 @@ export default function PortfolioShowcase() {
     {
       title: "Loyalty Card Student Design",
       technologies: ["Illustrator", "Canva"],
-      image: "/public/loyalty.png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/disp/ffb53f236301833.68e8c337b1d1e.png",
       demo: "https://www.behance.net/gallery/236301833/Loyalty-Card-Design-Babah-Ahui-Retro-Edition",
     },
     {
       title: "Visual Branding & Food Design",
       technologies: ["Photoshop", "Illustrator"],
-      image: "https://mir-s3-cdn-cf.behance.net/project_modules/fs/f5b14c236315773.68e8ff8cee11c.png",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f5b14c236315773.68e8ff8cee11c.png",
       demo: "https://www.behance.net/gallery/236315773/Visual-Branding-Food-Design",
     },
     {
