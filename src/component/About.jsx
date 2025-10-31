@@ -22,14 +22,17 @@ const About = () => {
   const toolLogos = [
     { src: "https://cdn-icons-png.flaticon.com/512/5968/5968428.png", alt: "After Effects" },
     { src: "https://cdn-icons-png.flaticon.com/512/5968/5968525.png", alt: "Premiere Pro" },
-    { src: "/show/416889/behance-internet-media.svg", alt: "Behance" },
-    { src: "/show/341669/canva.svg", alt: "Canva" },
-    { src: "/show/452185/css-3.svg", alt: "CSS" },
-    { src: "/show/452202/figma.svg", alt: "Figma" },
-    { src: "/show/373669/html.svg", alt: "HTML" },
-    { src: "https://cdn-icons-png.flaticon.com/512/5968/5968472.png", alt: "Illustrator" },
-    { src: "/show/452045/js.svg", alt: "JavaScript" },
     { src: "https://cdn-icons-png.flaticon.com/512/5968/5968520.png", alt: "Photoshop" },
+    { src: "https://cdn-icons-png.flaticon.com/512/5968/5968472.png", alt: "Illustrator" },
+    { src: "https://cdn-icons-png.flaticon.com/512/5968/5968705.png", alt: "Figma" },
+    { src: "https://cdn-icons-png.flaticon.com/512/2111/2111432.png", alt: "Github" },
+    { src: "https://cdn-icons-png.flaticon.com/512/3536/3536806.png", alt: "Behance" },
+    { src: "https://cdn-icons-png.flaticon.com/512/732/732221.png", alt: "Microsoft" },
+    { src: "https://cdn-icons-png.flaticon.com/512/16020/16020753.png", alt: "CSS" },
+    { src: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png", alt: "HTML" },
+    { src: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png", alt: "JavaScript" },
+    { src: "https://cdn-icons-png.flaticon.com/512/15886/15886932.png", alt: "React" },
+    { src: "https://cdn-icons-png.flaticon.com/512/5968/5968350.png", alt: "python" },
   ];
 
   return (
