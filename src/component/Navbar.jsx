@@ -25,6 +25,10 @@ const Navbar = () => {
     setIsOpen(false);
   };
 
+  // 🔗 Direct download link dari Google Drive
+  const resumeLink =
+    "https://drive.google.com/uc?export=download&id=1vvcm_sisDtLkIf9Kog46zUm6nqvGJNDM";
+
   return (
     <motion.nav
       initial={{ y: -100 }}
@@ -57,6 +61,7 @@ const Navbar = () => {
 
           {/* 🌙 Tombol Aksi */}
           <div className="flex items-center space-x-4">
+            {/* Tombol Tema */}
             <motion.button
               onClick={toggleTheme}
               whileHover={{ scale: 1.1 }}
@@ -70,9 +75,11 @@ const Navbar = () => {
               {isDark ? <Sun size={20} /> : <Moon size={20} />}
             </motion.button>
 
+            {/* Tombol Download Resume */}
             <motion.a
-              href="/public/Resume_Muhammad_Alif-Thohir_Graphic_Design.pdf"
-              download="RESUME-Muhammad_Alif_Thohir.pdf"
+              href={resumeLink}
+              target="_blank"
+              rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="hidden lg:flex items-center space-x-2 btn-primary"
@@ -81,6 +88,7 @@ const Navbar = () => {
               <span>Resume</span>
             </motion.a>
 
+            {/* Tombol Menu Mobile */}
             <button
               onClick={() => setIsOpen(!isOpen)}
               className="lg:hidden p-2 text-gray-700 dark:text-gray-300"
@@ -109,8 +117,9 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="/public/Resume_Muhammad_Alif-Thohir_Graphic_Design.pdf"
-              download="RESUME-Muhammad_Alif_Thohir.pdf"
+              href={resumeLink}
+              target="_blank"
+              rel="noopener noreferrer"
               className="mt-4 w-full btn-primary flex items-center justify-center"
             >
               <Download size={16} className="mr-2" />
