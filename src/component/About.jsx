@@ -20,7 +20,7 @@ const About = () => {
   ];
 
   const toolLogos = [
-    { src: "/public/icons8-adobe-after-effects.svg", alt: "After Effects" },
+    { src: "https://icons8.com/icon/108781/adobe-after-effects", alt: "After Effects" },
     { src: "/public/icons8-adobe-premiere-pro.svg", alt: "Premiere Pro" },
     { src: "/public/icons8-behance.svg", alt: "Behance" },
     { src: "/public/icons8-canva.svg", alt: "Canva" },
